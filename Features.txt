@@ -1,0 +1,15 @@
+                 ~Main Features~
+Minecraft 1.14.4, 1.13.2, 1.12.2, 1.8.9 support.
+Vanilla, OptiFine, Forge and Liteloader support.
+Not supported atm : 1.18+
+
+
+Commands:#Rainbow - get a rainbow armor
+#Breaker 5(1,2,3,4,5 - numbers of radius supported) - get a tool for break multiblocks
+#SpamItems(Throw multiply random items)
+#StealTools Nickname - steal players tools
+
+#Bot start - start the bots
+#gui - open gui for interact with bots
+#Devs - credits to MarkusWare, AdolfArribo, PlagWalk
+That guys really cool thanks to him :D
